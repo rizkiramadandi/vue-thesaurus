@@ -1,0 +1,1 @@
+.word-container{display:flex;flex-wrap:wrap;margin:1em auto}.word{border:.1em solid grey;padding:.5em;text-align:center;border-radius:.5em;margin:.25em;transition:.25s}.word:hover{cursor:pointer;background-color:#0000001a}
